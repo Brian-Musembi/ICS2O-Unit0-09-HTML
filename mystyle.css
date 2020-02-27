@@ -7,8 +7,34 @@ h1 {
   text-align: center;
 }
 
+h2{
+  text-decoration: underline;
+}
 p {
   font-family: verdana;
   font-size: 20px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #F5F5DC}
+
+th {
+  background-color: #A52A2A;
+  color: white;
+}
+img {
+  border-radius: 8px;
+}
+p {
+  color: purple;
   text-align: center;
 }
