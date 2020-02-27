@@ -25,16 +25,19 @@ th, td {
   padding: 8px;
 }
 
-tr:nth-child(even){background-color: #F5F5DC}
+tr:nth-child(even){background-color: #FFFFE0}
 
 th {
-  background-color: #A52A2A;
-  color: white;
+  background-color: #DC143C;
+  color: black;
 }
-img {
-  border-radius: 8px;
+td {
+  font-family: verdana;
+  font-size: 15px;
+  text-align: left;
 }
-p {
-  color: purple;
-  text-align: center;
+th {
+  font-family: verdana;
+  font-size: 18px;
+  text-align: left;
 }
