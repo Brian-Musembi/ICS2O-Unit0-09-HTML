@@ -1,0 +1,43 @@
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  text-align: center;
+}
+
+h2{
+  text-decoration: underline;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #FFFFE0}
+
+th {
+  background-color: #DC143C;
+  color: black;
+}
+td {
+  font-family: verdana;
+  font-size: 15px;
+  text-align: left;
+}
+th {
+  font-family: verdana;
+  font-size: 18px;
+  text-align: left;
+}
